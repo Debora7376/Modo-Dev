@@ -6,21 +6,36 @@
     "engines": {
         "vscode": "^1.60.0"
     },
+    "icon": "modoroot.png",
+    "galleryBanner": {
+        "color": "#030518",
+        "theme": "dark"
+    },
+    "keywords": [
+        "react",
+        "typescript",
+        "next",
+        "styled-components"
+      
+    ],
+    "repository": {
+        "url": "https://github.com/Debora7376/Modo-Dev"
+    },
     "categories": [
         "Extension Packs"
     ],
-    "extensionPack": [ 
+    "extensionPack": [
         "ritwickdey.liveserver",
         "dbaeumer.vscode-eslint",
         "esbenp.prettier-vscode",
         "VisualStudioExptTeam.vscodeintellicode",
-        "dracula-theme.theme-dracula", 
+        "dracula-theme.theme-dracula",
         "pkief.material-icon-theme",
         "aaravb.chrome-extension-developer-tools",
         "oderwat.indent-rainbow",
-        "2gua.rainbow-brackets", 
+        "2gua.rainbow-brackets",
         "origamid.origamid-theme",
-        "dbaeumer.vscode-eslint",
-        ""
+        "skyran.js-jsx-snippets",
+        "ms-vsliveshare.vsliveshare"
     ]
 }
