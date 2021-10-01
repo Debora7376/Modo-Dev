@@ -1,0 +1,26 @@
+{
+    "name": "devroot",
+    "displayName": "Modo Dev",
+    "description": "Some of the most popular (very useful) extensions.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "ritwickdey.liveserver",
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode",
+        "VisualStudioExptTeam.vscodeintellicode",
+        "dracula-theme.theme-dracula", 
+        "pkief.material-icon-theme",
+        "aaravb.chrome-extension-developer-tools",
+        "oderwat.indent-rainbow",
+        "2gua.rainbow-brackets", 
+        "origamid.origamid-theme",
+        "dbaeumer.vscode-eslint",
+        ""
+    ]
+}
